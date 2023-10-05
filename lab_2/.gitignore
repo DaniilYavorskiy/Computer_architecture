@@ -1,0 +1,10 @@
+*.o
+*.a
+*.d
+.vscode
+binary
+*.bin
+console
+test_term
+test_comp
+
